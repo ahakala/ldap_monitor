@@ -1,0 +1,9 @@
+ldap:
+        host: ipa.demo1.freeipa.org
+        timeout: 5
+
+slack:
+        enabled: True
+        key: <AUTH-KEY>
+        channel: "#mychannel"
+        
