@@ -1,5 +1,5 @@
 ldap:
-        host: ipa.demo1.freeipa.org
+        host: ['ipa.demo1.freeipa.org'] #add addtl hosts comma seperated 
         timeout: 5
 
 slack:
